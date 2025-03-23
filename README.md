@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Rakesh036/Rakesh036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rakesh036&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 
@@ -40,8 +35,7 @@ Here are some ideas to get you started:
 - 💻 **Backend Developer | MERN Stack | SQL | AI/ML**
 - 🌱 **Currently Learning:** Data Analytics, Python for AI/ML
 - 🏆 **Winner SIH 2024 (Mentor Connect Project)**
-- 💡 **Building Real-Time Indian Sign Language Translator**
-- 📫 **Reach Me At:** rakesh.email@example.com
+- 📫 **Reach Me At:** rakesh20330102@gmail.com
 - ⚡ **Fun Fact:** I debug my code more than I write it 😆
 
 ---
@@ -49,8 +43,9 @@ Here are some ideas to get you started:
 <!-- Skills & Tools -->
 ## 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,postgresql,mysql,docker,aws,git,github,postman,cloudflare,linux,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=c,java,js,python,react,nodejs,express,mongodb,postgresql,git,github,postman&perline=6"/>
 </p>
+
 
 ---
 
@@ -76,24 +71,14 @@ Here are some ideas to get you started:
 <!-- Connect With Me -->
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/rakesh036">
+  <a href="https://www.linkedin.com/in/rakeshpower">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://twitter.com/rakesh036">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
   <a href="https://github.com/Rakesh036">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
 </p>
 
----
-
-<!-- Random Quote -->
-## ✨ Inspirational Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
 
 ---
 
